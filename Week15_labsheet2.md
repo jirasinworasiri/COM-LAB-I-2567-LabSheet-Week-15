@@ -53,7 +53,11 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+- ![image](https://github.com/user-attachments/assets/f1cb7dfd-35e4-4e34-a8f7-c157d66912b7)
+
 - การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+- ![image](https://github.com/user-attachments/assets/37639f3f-016a-49de-915d-7d5a04f7f6db)
+
 
 
